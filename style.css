@@ -1,0 +1,129 @@
+ body {
+            background-color: rgb(122, 4, 4);
+        }
+
+        h1 {
+            text-align: center;
+            color: black;
+            font: bold;
+            font-size: 70px;
+            border: 5px dotted black;
+            padding: 2px;
+            background-color: rgb(182, 182, 182);
+
+        }
+
+        #menu {
+            padding: 0px;
+            margin: 20px;
+            list-style: none;
+            text-align: center;
+        }
+
+        #menu ul li {
+            display: inline;
+        }
+
+        #menu ul li a {
+            padding: 2px 10px;
+            display: inline-block;
+
+            background-color: rgb(182, 182, 182);
+            color: black;
+            text-decoration: none;
+            border-bottom: 3px solid black;
+        }
+
+        #menu ul li a:hover {
+            background-color: black;
+            color: rgb(182, 182, 182);
+            border-bottom: 3px solid rgb(77, 3, 3);
+        }
+
+
+        h2 {
+            color: rgb(182, 182, 182);
+            font-size: 40px;
+            text-align: center;
+            padding: 10px;
+            border: black solid 2px;
+           
+        }
+
+        h3 
+        {
+            font-size: 30px;
+            text-align: center;
+        }
+
+        p {
+            text-align: center;
+            background-color: rgb(182, 182, 182);
+            font-size: 40px;
+            border: solid 5px black;
+            margin: 10px;
+            padding: 30px;
+            display: inline-block;
+        }
+
+        .capa {
+            text-align: center;
+            padding-top: 40px;
+            padding-bottom: 40px;
+        }
+
+        td, th {
+            padding: .7em;
+            margin: 0;
+            border: 1px solid black;
+            text-align: center;
+            font-size: 30px;
+        }
+
+        th {
+            background-color:rgb(182, 182, 182);
+        }
+
+        td {
+            font-weight: bold;
+            background-color:rgb(182, 182, 182);
+        }
+
+        table {
+            width: 100%;
+            margin-bottom: .5em;
+            table-layout: fixed;
+            text-align: center;
+        }
+
+        .lista
+
+        {
+            border: 3px solid;
+           background: rgb(182, 182, 182);
+        }
+
+        ol, li
+        {
+            font-size: 30px;
+            color: black;
+           
+        }
+
+        .imgautora
+        {
+            text-align: center;
+            
+        }
+
+        .formulario
+        {
+            text-align: center;
+            color: black;
+          
+        }
+
+        .fontesdolivro
+        {
+            text-align: center;
+        }
